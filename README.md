@@ -5,15 +5,6 @@ This repository contains the smart contracts for Arttaca Marketplace, including 
 * Collections: for storing information about NFTs and Semi-Fungible tokens (ERC721 and ERC1155)
 * Marketplace: responsible for exchange, sales, auctions, and others
 
-## About the source code
-
-The source code in this repo has been created from scratch but uses OpenZeppelin standard libraries for safety in basic operations and validations.
-
-- [Getting Started](#getting-started)
-  - [Requirements](#requirements)
-  - [Usage](#usage)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
 
 ## Getting Started
 
@@ -42,9 +33,6 @@ Other useful commands:
 npx hardhat coverage
 ```
 
-## Troubleshooting
-
-If you have any questions, send them along with a hi to [hello@dandelionlabs.io](mailto:hello@dandelionlabs.io).
 
 ## License
 
