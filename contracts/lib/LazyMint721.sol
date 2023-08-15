@@ -1,7 +1,4 @@
-// SPDX-License-Identifier: MIT
-// Arttaca Contracts (last updated v1.0.0) (lib/Marketplace.sol)
-
-pragma solidity ^0.8.4;
+pragma solidity 0.8.4;
 
 import "./Ownership.sol";
 
