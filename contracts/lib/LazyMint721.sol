@@ -2,9 +2,6 @@ pragma solidity 0.8.4;
 
 import "./Ownership.sol";
 
-/**
- * @title Arttaca Marketplace library.
- */
 library LazyMint721 {
     struct TokenData {
         uint id;
